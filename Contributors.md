@@ -448,6 +448,7 @@
 - Klaymond
 - [BeRT2me](https://github.com/BeRT2me)
 - electrichk
+- [Muhamad Firmansyah](https://github.com/muhamadfirmansyah)
 - btdkomplex
 - [RoyaKar](https://github.com/RoyaKar)
 - [Bryan Dorman](https://github.com/bofvader)
